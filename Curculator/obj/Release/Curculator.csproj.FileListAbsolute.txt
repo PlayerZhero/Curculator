@@ -1,0 +1,16 @@
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Release\Curculator.exe.config
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Release\Curculator.exe
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Release\Curculator.pdb
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.csprojAssemblyReference.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\MainWindow.g.cs
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\App.g.cs
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator_MarkupCompile.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator_MarkupCompile.lref
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\App.baml
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\MainWindow.baml
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.g.resources
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.Properties.Resources.resources
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.csproj.GenerateResource.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.csproj.CoreCompileInputs.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.exe
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Release\Curculator.pdb

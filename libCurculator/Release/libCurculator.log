@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  curculator.cpp
+c:\users\playerzhero\source\repos\curculator\libcurculator\curculator.cpp(71): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\playerzhero\source\repos\curculator\libcurculator\curculator.cpp(84): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+  dllmain.cpp
+  fixedreal.cpp
+c:\users\playerzhero\source\repos\curculator\libcurculator\fixedreal.cpp(750): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+c:\users\playerzhero\source\repos\curculator\libcurculator\fixedreal.cpp(751): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+  lexic.cpp
+  syntax.cpp
+     Создается библиотека C:\Users\PlayerZhero\source\repos\Curculator\Release\libCurculator.lib и объект C:\Users\PlayerZhero\source\repos\Curculator\Release\libCurculator.exp
+  Создание кода
+c:\users\playerzhero\source\repos\curculator\libcurculator\fixedreal.cpp(335): warning C4715: curculator::FixedReal::IsBelow: значение возвращается не при всех путях выполнения
+c:\users\playerzhero\source\repos\curculator\libcurculator\fixedreal.cpp(572): warning C4715: curculator::FixedReal::Sub: значение возвращается не при всех путях выполнения
+c:\users\playerzhero\source\repos\curculator\libcurculator\fixedreal.cpp(468): warning C4715: curculator::FixedReal::Add: значение возвращается не при всех путях выполнения
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  libCurculator.vcxproj -> C:\Users\PlayerZhero\source\repos\Curculator\Release\libCurculator.dll

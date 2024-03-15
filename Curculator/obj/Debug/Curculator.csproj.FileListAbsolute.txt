@@ -1,0 +1,16 @@
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.csprojAssemblyReference.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\MainWindow.g.cs
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\App.g.cs
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator_MarkupCompile.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator_MarkupCompile.lref
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Debug\Curculator.exe.config
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Debug\Curculator.exe
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\bin\Debug\Curculator.pdb
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\App.baml
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\MainWindow.baml
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.g.resources
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.Properties.Resources.resources
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.csproj.GenerateResource.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.csproj.CoreCompileInputs.cache
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.exe
+C:\Users\PlayerZhero\source\repos\Curculator\Curculator\obj\Debug\Curculator.pdb
